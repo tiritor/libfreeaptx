@@ -33,7 +33,6 @@ STATIC_UTILITIES = $(NAME)enc.static $(NAME)dec.static
 
 HEADERS = $(NAME).h
 SOURCES = $(NAME).c
-AOBJECTS = $(NAME).o
 IOBJECTS = $(NAME)enc.o $(NAME)dec.o
 
 BUILD = $(SOFILENAME) $(SONAME) $(LIBNAME) $(IOBJECTS) $(UTILITIES)
