@@ -22,8 +22,8 @@
 #define freeaptx_H
 
 #define freeaptx_MAJOR 0
-#define freeaptx_MINOR 2
-#define freeaptx_PATCH 0
+#define freeaptx_MINOR 1
+#define freeaptx_PATCH 1
 
 #include <stddef.h>
 
