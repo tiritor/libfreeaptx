@@ -61,5 +61,5 @@ command-line utilities.
 %{_bindir}/freeaptxdec
 
 %changelog
-* Tue Aug 2021 Timo Geier <timmor94@yahoo.de> - 0.1.1-1
+* Tue Aug 17 2021 Timo Geier <timmor94@yahoo.de> - 0.1.1-1
 - Initial packaging
